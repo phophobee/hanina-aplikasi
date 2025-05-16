@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(/public/fonts/Poppins-Regular.ttf)format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url(/public/fonts/Poppins-Bold.ttf)format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins-Extrabold';
+  src: url(/public/fonts/Poppins-ExtraBold.ttf)format('truetype');
+}
+
+
+body {
+  font-family: 'Poppins', 'Tahoma', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
