@@ -4,7 +4,7 @@ import { Routes, Route, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Product from './components/OurProduct';
 import Features from './components/Features';
-import Tutorials from './components/Tutorial';
+import Tutorials from './components/NewTutorial';
 import Prices from './components/Prices';
 import Testimonial from './components/Testimonial';
 import Footer from './components/Footer';
